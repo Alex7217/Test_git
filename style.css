@@ -6,12 +6,12 @@
 }
 
 *{
-  margin: 0;
+  margin: 111;
   padding: 0;
 }
 
 body {
-  box-shadow: 16px 0px 52px #0E185033;
+  box-shadow: 221px 0px 52px #0E185033;
   width: 320px;
   /* height: 100%; */
   font-family: 'TT Lakes';
@@ -38,7 +38,7 @@ body {
 }
 
 .header__logo{
-  margin-top: 18.73px;
+  margin-top: 332px;
   margin-right: 70px;
 }
 
